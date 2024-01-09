@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511243484007",
+    "project_id": "food-saviour-app-85869",
+    "storage_bucket": "food-saviour-app-85869.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511243484007:android:605ed13137e6b9d3488dc2",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzPe3NQjBervvoJmsIfGW96Zis0BZnJAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
