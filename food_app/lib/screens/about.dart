@@ -59,7 +59,7 @@ class AboutUs extends StatelessWidget {
                     child:
                         // Text('We ',style:TextStyle(fontSize: 40,fontStyle: FontStyle.italic) ),
                         AutoSizeText(
-                            '                at Food Saviyour aim to provide help to the society in a way which is beneficial for everyone. This app is a platform that works to connect the avaliable donors to recpients who can provide the needy. ',
+                            '                at Food Saviour aim to provide help to the society in a way which is beneficial for everyone. This app is a platform that works to connect the avaliable donors to recpients who can provide the needy. ',
                             style: TextStyle(
                               fontSize: 18,
                             ))),

@@ -441,7 +441,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                             //crossAxisAlignment: CrossAxisAlignment.center,
                             //mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                             children: <Widget>[
-                              Text('Update Perofile',
+                              Text('Update Profile',
                                   textAlign: TextAlign.center,
                                   style: TextStyle(
                                       fontSize: 20,

@@ -612,7 +612,7 @@ class _ReceiverHomeScreenState extends State<ReceiverHomeScreen> {
         appBar: AppBar(
           titleSpacing: 0,
           backgroundColor: Colors.black,
-          title: Text('Food Saviyour', style: TextStyle(color: Colors.white),),
+          title: Text('Food Saviour', style: TextStyle(color: Colors.white),),
           actions: <Widget>[
             Flexible(
               child: DropdownButtonHideUnderline(

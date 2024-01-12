@@ -48,7 +48,7 @@ width: MediaQuery.of(context).size.width*0.25,
       appBar: AppBar(
         backgroundColor: Colors.black,
         title: Text(
-          'Food Saviyour',
+          'Food Saviour',
           style: TextStyle(
               color: Colors.white,
               fontSize: 20,

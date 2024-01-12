@@ -442,7 +442,7 @@ class _ProfileReceiverState extends State<ProfileReceiver> {
                             //crossAxisAlignment: CrossAxisAlignment.center,
                             //mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                             children: <Widget>[
-                              Text('Update Perofile',
+                              Text('Update Profile',
                                   textAlign: TextAlign.center,
                                   style: TextStyle(
                                       fontSize: 20,

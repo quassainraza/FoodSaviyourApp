@@ -79,7 +79,7 @@ class _MyAppState extends State<MyApp> {
     FirebaseFirestore Firestore = FirebaseFirestore.instance;
 
     return MaterialApp(
-      title: 'Food Saviyour App',
+      title: 'Food Saviour App',
       theme: ThemeData(
         fontFamily: 'Raleway',
       ),
